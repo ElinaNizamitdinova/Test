@@ -14,3 +14,8 @@
 https://git-scm.com/downloads
 
 
+
+## 3. Настройки git
+При первом использование необхдимо представится git используя команды
+git confing --global user.name ""
+git confing --global user.email""
