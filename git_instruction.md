@@ -19,3 +19,6 @@ https://git-scm.com/downloads
 При первом использование необхдимо представится git используя команды
 git confing --global user.name ""
 git confing --global user.email""
+
+Для того чтобы проверить регистрацию использовать команду
+git config --list
